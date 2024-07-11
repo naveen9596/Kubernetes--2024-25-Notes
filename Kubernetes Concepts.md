@@ -44,53 +44,5 @@ Kubernetes allows you to automatically mount a storage system of your choice, su
 **Designed for extensibility** Add features to your Kubernetes cluster without changing upstream source code.
 
 
-** DevOps Prerequisite course**
-===========================
-```
-linux basics
-virtual box networking
-vagrant
-networking basics
-programming basics
-database basics
-git
-apache web server
-ips and ports
-ssl & tls basics
-yaml
-```
-
-
-Linux for Beginners
-
-linux shell
-kernel
-runlevels
-filetypes
-rpm
-yum
-dpkg
-apg
-vi editor
-networking
-dns
-ssh
-scp
-iptables
-systemd
-nfs
-lvm
-
-## Docker
-``containers
-images
-volumes
-container
-orchestration
-networking
-``
-
-
-
 
 
