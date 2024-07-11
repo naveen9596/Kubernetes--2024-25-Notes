@@ -4,7 +4,7 @@ To effectively learn Kubernetes, having a foundational understanding in several 
    - Familiarity with command-line tools.
    - Basic understanding of Linux system administration (e.g., file permissions, networking, process management).
 
-**linux basics**
+**Linux basics**
 ```
 virtual box networking
 vagrant
@@ -23,7 +23,7 @@ yaml
    - Understanding what containers are and how they work.
    - Experience with Docker, including creating, managing, and deploying containers.
 
-## Docker
+**Docker**
 ```containers
 images
 volumes
