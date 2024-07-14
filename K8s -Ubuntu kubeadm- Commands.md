@@ -41,5 +41,6 @@ Kubernetes AWS-Ubuntu22.04 Machine Commands:
 	kubeadm join 172.30.3.115:6443 --token kyc11y.58oskoe7hpj06zv4 \
         --discovery-token-ca-cert-hash sha256:3d49b9d654c851d522812decb624e004e0ed169d735ea692619fa7e3e72b59de
 ```
-
+```
    23  history
+```
