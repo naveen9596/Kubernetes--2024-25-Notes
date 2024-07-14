@@ -1,4 +1,4 @@
-#### minikube-install-aws
+## minikube-install-aws
 
 ### Installing kubectl
 
