@@ -44,3 +44,8 @@ Kubernetes AWS-Ubuntu22.04 Machine Commands:
 ```
    23  history
 ```
+# For Reference:
+
+1.https://v1-29.docs.kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+2.https://v1-29.docs.kubernetes.io/docs/tasks/tools
+3.https://v1-29.docs.kubernetes.io/docs/tasks/tools/install-kubectl-linux/
