@@ -1,3 +1,4 @@
+```
 root@master:/# history
     1  sudo apt-get update
     2  curl -fsSL https://pkgs.k8s.io/core:/stable:/v1.29/deb/Release.key | sudo gpg --dearmor -o /etc/apt/keyrings/kubernetes-apt-keyring.gpg
@@ -83,4 +84,7 @@ root@master:/# history
    82  cd .kube
    83  kubectl config view
    84  kubectl get nodes
+
+```
+
    85  history
