@@ -1,4 +1,5 @@
-sudo apt-get update
+```
+       sudo apt-get update
     3  curl -fsSL https://pkgs.k8s.io/core:/stable:/v1.29/deb/Release.key | sudo gpg --dearmor -o /etc/apt/keyrings/kubernetes-apt-keyring.gpg
     4  echo 'deb [signed-by=/etc/apt/keyrings/kubernetes-apt-keyring.gpg] https://pkgs.k8s.io/core:/stable:/v1.29/deb/ /' | sudo tee /etc/apt/sources.list.d/kubernetes.list
     5  sudo apt-get update
@@ -20,3 +21,6 @@ sudo apt-get update
    21  free -h
    22  kubectl version --client
    23  sudo kubeadm init
+
+
+```
